@@ -1,0 +1,5 @@
+Ahmed|Fever|A1
+Ashfaq||B1
+BAC|heart|ICU
+Hussain|Cold|A2
+XYZ|fever|g1
